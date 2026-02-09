@@ -5,7 +5,6 @@
 I love exploring new and exciting tech. Currently making dApps using solidity, foundry and javascript.
 
 * 🌍  I'm based in India
-* 🚀  I'm currently working on [MergeMint](http://https://github.com/vihaan1016/MergeMint/tree/dev)
 * 🧠  I'm currently learning Foundry and Solidity
 * 💬  I'm Batman
 
