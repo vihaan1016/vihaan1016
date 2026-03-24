@@ -15,3 +15,5 @@ I love exploring new and exciting tech. Currently making dApps using solidity, f
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VihaanJain20) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihaan-jain-945a7831a/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vihaan_1016)<br />
+
+![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihaan1016&show_icons=true&theme=chartreuse-dark&border_radius=4.7&card_width=450)
