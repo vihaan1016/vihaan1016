@@ -2,10 +2,10 @@
 
 <h3 align="center"> Exploring web3 and surviving life🧑🏻‍💻 Freshman at IIT Roorkee⚡️</h3>
 
-I love exploring new and exciting tech. Currently making dApps using solidity, foundry and javascript.
+I love exploring new and exciting tech. Currently making dApps, doing zk stuff.
 
 * 🌍  I'm based in India
-* 🧠  I'm currently learning Foundry and Solidity
+* 🧠  I'm currently exploring various Web3 domains
 * 💬  I'm Batman
 
 ##  🚀Languages & Tools:
